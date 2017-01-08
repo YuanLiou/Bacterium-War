@@ -24,3 +24,4 @@ release/
 Library/
 Temp/
 .vscode/
+.idea/
